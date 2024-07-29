@@ -1,9 +1,9 @@
 ---
-title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Developing and Documenting Technology'
+description: 'Class Portfolio'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/asmsa.webp'
+    alt: 'ASMSA Logo'
 worksImage1:
     url: '/image-1.webp'
     alt: 'first image of your project.'
@@ -12,8 +12,10 @@ worksImage2:
     alt: 'second image of your project.'
 platform: Web
 stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+website: https://www.youtube.com/@ashhong7470
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Over the course of a semester, I self-taught myself Blender and showcased my growth through
+videos edited by Adobe Premiere Pro. I learned 3D modeling and video editing throughout the
+class, all uploaded to YouTube.

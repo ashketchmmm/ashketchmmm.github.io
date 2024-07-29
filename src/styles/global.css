@@ -7,7 +7,8 @@
     --text-light: #1e1e2e; 
     --text-link: #78c2ad;
     --underline: #375a7f;
-    --header: 'Pacifico', cursive;
+    /*--header: 'Pacifico', cursive;*/
+    --header: 'Monocraft';
     --body: 'Josefin Sans', sans-serif; 
 }
 
@@ -42,6 +43,14 @@ h2 {
 }
 
 p {
+    font-family: var(--body);
+    font-size: 1.1rem;
+    hyphens: auto;
+    line-height: 1.5;
+    text-indent: 1rem;
+}
+
+.aboutli {
     font-family: var(--body);
     font-size: 1.1rem;
     hyphens: auto;
@@ -99,7 +108,7 @@ small, li {
     border-radius: 6px;
     font-family: var(--body);
     font-weight: 600;
-    font-size: .85rem;
+    font-size: .99rem;
     padding: 0.3em 0.6em 0.2em;
 }
 

@@ -1,9 +1,9 @@
 ---
-title: 'Project 1'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'UChicago Summer Session: Making Art in the Age of the Internet'
+description: 'Program Projects'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/uchicago2.jpg'
+    alt: 'University of Chicago Logo'
 worksImage1:
     url: '/image-1.webp'
     alt: 'first image of your project.'
@@ -12,8 +12,9 @@ worksImage2:
     alt: 'second image of your project.'
 platform: Web
 stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+website: https://ashhong.wixsite.com/memories-machines
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+During this 3-week long session, I investigated the usage of conventional technology as a new medium for art to create my own artworks. Through dissecting various articles on modern-day mediums, I created two separate projects utilizing technology and organized them onto a website.
+

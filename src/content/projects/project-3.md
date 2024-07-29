@@ -1,9 +1,9 @@
 ---
-title: 'Project 3'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Scratch Final Project'
+description: 'Scratch Game'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/scratch.png'
+    alt: 'Scratch Logo'
 worksImage1:
     url: '/image-1.webp'
     alt: 'first image of your project.'
@@ -12,8 +12,10 @@ worksImage2:
     alt: 'second image of your project.'
 platform: Web
 stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+website: https://scratch.mit.edu/projects/512391378/
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+This Scratch game was the final project for my Computer Programming I class, where
+I developed a simple platformer game with a story and game mode. All artwork was made by
+myself.
