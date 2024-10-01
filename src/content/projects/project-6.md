@@ -1,3 +1,4 @@
+
 ---
 title: 'Wargaming Automation UROP'
 description: 'MIT Wargaming Lab's Taiwan Invasion Scenario wargame'
