@@ -9,19 +9,19 @@ const projectsCollection = defineCollection({
         url: z.string(),
         alt: z.string()
       }),
-      worksImage1: z.object({
+      /* worksImage1: z.object({
         url: z.string(),
         alt: z.string()
       }),
       worksImage2: z.object({
         url: z.string(),
         alt: z.string()
-      }),
+      }), 
       platform: z.string(),
-      stack: z.string(),
+      stack: z.string(), */
       website: z.string(),
       github: z.string(),
-    })
+    //})
 });
 
 export const collections = {
