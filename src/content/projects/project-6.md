@@ -1,6 +1,6 @@
 ---
 title: 'Wargaming Automation UROP'
-description: 'test'
+description: 'MIT Wargaming Lab UROP'
 image:
     url: '/edgerton.png'
     alt: 'MIT Edgerton Center Logo'
