@@ -1,5 +1,5 @@
 ---
-title: 'Mobile Game UROP'
+title: 'Wargaming Automation UROP'
 description: 'Mobile Video Game for Mental Health Assessment'
 image:
     url: '/edgerton.png'
