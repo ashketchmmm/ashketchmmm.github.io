@@ -4,16 +4,7 @@ description: 'MIT Wargaming Lab UROP'
 image:
     url: 'https://ssp.mit.edu/sites/default/files/css_injector_images_image/sitetitle_374x102.png'
     alt: 'MIT Security Studies Program Logo'
-worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
-worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
 website: N/A
-github: https://github.com/ttomczak3/Milky-Way
 ---
 
 With the MIT Wargaming Lab, I am working to help digitize their Taiwan Invasion Scenario wargame
