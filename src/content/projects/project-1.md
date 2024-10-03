@@ -4,12 +4,6 @@ description: 'Program Projects'
 image:
     url: '/uchicago2.jpg'
     alt: 'University of Chicago Logo'
-worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
-worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
 platform: Web
 stack: Astro, JavaScript
 website: https://ashhong.wixsite.com/memories-machines
