@@ -4,9 +4,11 @@ description: 'Digital and Gouache Works'
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
-website: In Progress
+website: N/A
 ---
 
 The following contains a gallery of certain assorted artworks, done with either gouache paints or digitally.
 
-<img src="/github2.png" alt="Drawing of a girl with dark hair in a space station">
+<img src="/github1.png" alt="Drawing recreation of a Squid Games scene" style="width:500px;height:500px;">
+
+<img src="/github2.png" alt="Drawing of a girl with dark hair in a space station" style="width:500px;height:500px;">
