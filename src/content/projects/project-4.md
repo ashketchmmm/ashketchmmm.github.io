@@ -11,4 +11,4 @@ The following contains a gallery of certain assorted artworks, done with either 
 
 <img src="/github1.png" alt="Drawing recreation of a Squid Games scene" style="width:700px;height:700px;">
 
-<img src="/github1.png" alt="Drawing of a girl with dark hair in a space station" style="width:700px;height:500px;">
+<img src="/github2.png" alt="Drawing of a girl with dark hair in a space station" style="width:700px;height:500px;">
