@@ -2,8 +2,8 @@
 title: 'Spellstrike Game'
 description: 'MIT 6.4570 Project 2'
 image:
-    url: 'https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec'
-    alt: 'MIT Security Studies Program Logo'
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png'
+    alt: 'MIT Logo'
 website: 'https://ashketchmm.itch.io/spellstrike'
 ---
 
