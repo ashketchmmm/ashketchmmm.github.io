@@ -2,7 +2,7 @@
 title: 'Wargaming Automation UROP'
 description: 'MIT Wargaming Lab UROP'
 image:
-    url: 'https://ssp.mit.edu/sites/default/files/css_injector_images_image/sitetitle_374x102.png'
+    url: '[https://ssp.mit.edu/sites/default/files/css_injector_images_image/sitetitle_374x102.png](https://ssp.mit.edu/files/ssp/block/header/ssp_logo_374x102.png)'
     alt: 'MIT Security Studies Program Logo'
 website: N/A
 ---
