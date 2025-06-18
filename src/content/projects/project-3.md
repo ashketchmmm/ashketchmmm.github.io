@@ -2,8 +2,8 @@
 title: 'Scratch Final Project'
 description: 'Scratch Game'
 image:
-    url: '/scratch.png'
-    alt: 'Scratch Logo'
+    url: '/asmsa.webp'
+    alt: 'ASMSA Logo'
 website: https://scratch.mit.edu/projects/512391378/
 ---
 
