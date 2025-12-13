@@ -1,5 +1,5 @@
 ---
-title: 'Interactive Music Systems Final [UPCOMING]'
+title: 'The Wrong Key: Interactive Music Systems Final Project'
 description: 'Class Final Project'
 image:
     url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png'
