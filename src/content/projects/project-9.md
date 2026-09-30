@@ -2,7 +2,7 @@
 title: 'Marshall University REU'
 description: 'Persuasive Game Design on Green Urban Infrastructure'
 image:
-    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Marshall_University_logo.svg/250px-Marshall_University_logo.svg.png utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail'
+    url: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Marshall_University_logo.svg/250px-Marshall_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail'
     alt: 'Marshall University Logo'
 website: 'https://docs.google.com/document/d/135sf_TR8AgxuOJzEYRtZRCI-k_h6G9zcAmY4Zt56SoE/edit?usp=sharing'
 ---
