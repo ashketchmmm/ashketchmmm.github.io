@@ -2,7 +2,7 @@
 title: 'The Wrong Key'
 description: 'Interactive Music Systems Final Project'
 image:
-    url: 'Change project logo to EECS logo'
+    url: 'https://cdn.prod.website-files.com/669d4f200a1d7d1ef9dd354a/66a2fa6412854edc11db4e03_eecs_logo.png'
     alt: 'MIT EECS Logo'
 website: 'N/A'
 ---
