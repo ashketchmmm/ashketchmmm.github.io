@@ -1,6 +1,6 @@
 ---
 title: 'Trash Bandits Game'
-description: 'MIT 6.4570 Project 3'
+description: 'Creating Video Games Final Project'
 image:
     url: '/trashbandits.png'
     alt: 'Trash Bandits Start Screen'
