@@ -1,6 +1,6 @@
 ---
 title: 'Spider Slayer: A FPGA Dungeon Crawler'
-description: 'FPGA-based Class Group Project'
+description: 'Digital Systems Lab Final Project'
 image:
     url: 'https://cdn.prod.website-files.com/669d4f200a1d7d1ef9dd354a/66a2fa6412854edc11db4e03_eecs_logo.png'
     alt: 'MIT EECS Logo'
