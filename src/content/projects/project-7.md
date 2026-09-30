@@ -1,6 +1,6 @@
 ---
 title: 'Spellstrike'
-description: 'MIT 6.4570 Project 2'
+description: 'Creating Video Games Project #2'
 image:
     url: '/spellstrike.png'
     alt: 'Spellstrike Cover Image'
