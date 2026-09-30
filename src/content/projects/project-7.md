@@ -2,8 +2,8 @@
 title: 'Spellstrike'
 description: 'MIT 6.4570 Project 2'
 image:
-    url: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original'
-    alt: 'Unity Logo'
+    url: '/spellstrike.png'
+    alt: 'Spellstrike Cover Image'
 website: 'https://ashketchmm.itch.io/spellstrike'
 ---
 
