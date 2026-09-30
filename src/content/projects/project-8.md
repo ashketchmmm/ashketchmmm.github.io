@@ -2,7 +2,7 @@
 title: 'Trash Bandits Game'
 description: 'MIT 6.4570 Project 3'
 image:
-    url: '/trash_bandits.png'
+    url: '/trashbandits.png'
     alt: 'Trash Bandits Start Screen'
 website: 'https://ashketchmm.itch.io/trash-bandits'
 ---
