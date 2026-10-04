@@ -1,4 +1,5 @@
 ---
+layout: src/layouts/MarkdownWorksLayout.astro
 title: 'Trash Bandits Game'
 description: 'Creating Video Games Final Project'
 image:
