@@ -15,3 +15,7 @@ card's effect.
 I served as the main programmer for this project. I coded most of the gameplay logic, excluding the wall logic. 
 The gameplay logic was fleshed out using manager scripts that oversaw turn logic, deck randomization, and 
 health and game state logic. 
+
+<video width="500" height="320" controls="">
+  <source src="/spellstrikedemo.mp4" type="video/mp4">
+</video>
