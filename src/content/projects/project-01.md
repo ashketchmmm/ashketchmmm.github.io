@@ -17,5 +17,5 @@ The gameplay logic was fleshed out using manager scripts that oversaw turn logic
 health and game state logic. 
 
 <video width="500" height="320" controls="">
-  <source src="/spellstrikedemo.mp4" type="video/mp4">
+  <source src="/SpellstrikeDemo.mp4" type="video/mp4">
 </video>
