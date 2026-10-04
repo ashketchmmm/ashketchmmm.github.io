@@ -4,7 +4,7 @@ description: 'Creating Video Games Project #2'
 image:
     url: '/spellstrike.png'
     alt: 'Spellstrike Cover Image'
-website: 'https://ashketchmm.itch.io/spellstrike'
+website: '[Spellstrike Game](https://ashketchmm.itch.io/spellstrike)'
 ---
 
 My teammates and I created a game called Spellstrike, where two wizards duel 
