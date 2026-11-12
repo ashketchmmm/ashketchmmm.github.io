@@ -1,5 +1,5 @@
 ---
-title: 'Trash Bandits Game'
+title: 'Trash Bandits'
 description: 'Creating Video Games Final Project'
 image:
     url: '/trashbandits.png'
